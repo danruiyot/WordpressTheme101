@@ -1,0 +1,13 @@
+/*
+Theme Name: Blue Coast Herder
+Author: Dan Ruiyot
+Author URI: https://danruiyot.netlify.app/
+Version: 1.0
+ */
+@import './assets/css/style.css';
+figcaption{
+    display: block;
+    color:#353241;
+    font-weight: 600;
+}
+
